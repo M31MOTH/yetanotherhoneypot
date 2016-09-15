@@ -17,6 +17,6 @@ and bind it to localhost. The process will keep running on the background as a c
 python run.py "OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.7" localhost 3306 http://github.com 8080
 
 # ToDo List:
-Nmap + Dynamic copy: As a user of this Honeypot I would like to specify a target and automatically deploy a copy of all the services without the need to specify banners or ports.
-XML Export: As a user I would like to have the logs in a XML format to be able to import the results into different tools
+1. Nmap + Dynamic copy: As a user of this Honeypot I would like to specify a target and automatically deploy a copy of all the services without the need to specify banners or ports.
+2. XML Export: As a user I would like to have the logs in a XML format to be able to import the results into different tools
 
