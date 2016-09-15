@@ -1,4 +1,4 @@
-YeAHPot: 
+# YeAHPot: 
 Yet Another Honey Pot by jsacco@exploitpack.com
 
 # Description:
