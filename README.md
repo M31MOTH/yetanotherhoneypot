@@ -2,9 +2,9 @@
 Yet Another Honey Pot by jsacco@exploitpack.com
 
 # Description:
-Usually HoneyPot project are made for grabbing malware samples, the purpouse of this project
-is to make a honeypot for logging, intercepting and decepting malicious user into sensitive assets
-and in order to do that it achieves a few simple but effective features:
+Usually HoneyPot projects are made for grabbing malware samples, the purpouse of this project
+is to make a honeypot for logging, intercepting and decepting malicious users into sensitive assets
+and in order to do that it has a few simple but effective features:
 
 1. Mimic server services by opening the same ports as in the real asset
 2. Copy the web server hosted on that asset and serve the content
