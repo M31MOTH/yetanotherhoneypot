@@ -1,6 +1,5 @@
-########################################################
-YeAHPot: Yet Another Honey Pot by jsacco@exploitpack.com
-########################################################
+YeAHPot: 
+Yet Another Honey Pot by jsacco@exploitpack.com
 
 # Description:
 Usually HoneyPot project are made for grabbing malware samples, the purpouse of this project
