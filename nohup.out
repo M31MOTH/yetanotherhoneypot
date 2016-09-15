@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "yahpotweb.py", line 5, in <module>
+    from core.config import user_agent as usera
+  File "/home/jsacco/HoneyPot/core/config.py", line 35, in <module>
+    url = sys.argv[4] or None
+IndexError: list index out of range

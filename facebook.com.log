@@ -1,0 +1,40 @@
+
+## 11:39:15 - 13/09/16 - Data for http://facebook.com
+
+__a => 1
+__be => -1
+__dyn => 7xeXxaER2HwNJ0ZwRAKGzEyay6-C11xG12wAxu13wm8gxZ3ocU9UKaxeUW2y7E4iu3e225ob8aUbo6ucxG48hwv9FovgWmdxu
+__pc => PHASED:DEFAULT
+__req => 2
+__rev => 2559419
+__user => 0
+lsd => AVoJKJLA
+ph => V3
+q => [{"user":"0""page_id":"8893km""posts":[["scuba_sample"{"int":{"clientWidth":1906"clientHeight":918}"normal":{"view":"normal"}"_ds":"www_tinyview_port""_options":{"addBrowserFields":true}}14737595475440]["script_path_change"{"source_path":null"source_token":null"dest_path":"WebIndexReduxController""dest_token":"b2227d82""impression_id":"a9bc83a1""cause":"load""referrer":""}14737595477420]["time_spent_bit_array"{"tos_id":"8893km""start_time":1473759547"tos_array":[4990]"tos_len":9"tos_seq":0"tos_cum":7}14737595556170]["ods:ms.time_spent.qa.www"{"time_spent.bits.js_initialized":[1]}14737595556280]]"trigger":"ods:ms.time_spent.qa.www"}]
+ts => 1473759555634
+
+## 11:39:21 - 13/09/16 - Data for http://facebook.com
+
+__user => 0
+__a => 1
+__dyn => 7xeXxaER2HwNJ0ZwRAKGzEyay6-C11xG12wAxu13wm8gxZ3ocU9UKaxeUW2y7E4iu3e225ob8aUbo6ucxG48hwv9FovgWmdxu
+__req => 3
+__be => -1
+__pc => PHASED:DEFAULT
+lsd => AVoJKJLA
+__rev => 2559419
+
+## 11:39:22 - 13/09/16 - Data for http://facebook.com
+
+lsd => AVoJKJLA
+email => juansacco@gmail.com
+pass => asd123
+default_persistent => 1
+timezone => -120
+lgndim => eyJ3IjoxOTIwLCJoIjoxMDgwLCJhdyI6MTkyMCwiYWgiOjEwODAsImMiOjI0fQ==
+lgnrnd => 023905_xkOF
+lgnjs => 1473759547
+ab_test_data => AAvAffvf/AAAPPAAAAAAAAAPAAAAAAAAAAAAAAAAW/fAAAAAAAKCAB
+locale => nl_NL
+next => https://www.facebook.com/
+qsstamp => W1tbXV0sIkFabWppeEp6dkFsSFpUYnhPa2FFdFFIOWM0SkJzaEt5NmNxYjZxZmI5LThMd016Q29VYk9NQlpGRFdxb3BRTkwtLVpueGJtWVBnRHA3Sk1Fd2ZkclZFLXlybnkzM3NzcXNsbERJNkVCbzg1ckhxb1VaTDdRTUFiLUdUR1pFRVFRUl9ocU50QllXU1Vxb2xmVDZ6WVcyWVludGc5WDRSRm5Vb3pna3VETmZFcjR1WHZtMVFmUjlFbWpxQVdBTTAtNThZcG9zakpuUF8zd0dwNVNBMTVXMktzZ1llOGVKOWhGbHFZQ25pVGJoOXdqVkhTVlVxM3BMdnExc3hRX0ZrcjM2T2MiXQ==
