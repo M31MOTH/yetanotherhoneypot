@@ -11,7 +11,7 @@ and in order to do that it has a few simple but effective features:
 3. Log all interactions on a pcap file and drop the data into a Syslog server
 
 # How to use:
-The following example will open the port 22 for SSH, add the banner and retrieve and server the login page of Github on port 8080
+The following example will open the port 22 for SSH, add the banner, retrieve and serve the login page of Github on port 8080
 and bind it to localhost. The process will keep running on the background as a child process.
 
 python run.py "OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.7" localhost 3306 http://github.com 8080
